@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Tabloom",
+    "version": "1.0",
+    "description": "A mood-based customizable new tab extension.",
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    },
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "public/index.html",
+      "default_icon": {
+        "16": "assets/icon-16.png",
+        "48": "assets/icon-48.png",
+        "128": "assets/icon-128.png"
+      }
+    }
+  }
+  

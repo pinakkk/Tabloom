@@ -1,0 +1,21 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional custom styles */
+.App {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.MoodSelector button {
+  margin: 5px;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+}
