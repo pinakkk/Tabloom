@@ -9,6 +9,9 @@ Tabloom is an open-source Chrome extension designed to enhance the personal brow
 - **Dynamic Backgrounds**: Automatic background wallpaper changes or animated backgrounds to keep your browsing fresh.
 - **To-Do List Functionality**: Keep track of your tasks right from your new tab page.
 
+## Prototypes
+Initial Wireframe is available in prototypes folder.
+
 ## Installation
 
 1. Clone this repository:
