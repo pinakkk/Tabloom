@@ -1,13 +1,14 @@
-import React, { useState, useEffect } from 'react';
+import React from "react";
 
-import './App.css';
+import MainTab from "./pages/MainTab";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <h1>Tabloom</h1>
-    </div>
+    <>
+    <h1>hrllo</h1>
+    <MainTab/>
+    </>
   );
-}
+};
 
 export default App;
